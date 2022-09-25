@@ -1,4 +1,6 @@
-# Realty-to-Reality---Find-your-dream-home-here-Project Title:
+# Realty-to-Reality---Find-your-dream-home-here-
+
+Project Title:
 Realty to Reality – The search for your dream home ends now!
 
 About the project:
