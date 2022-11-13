@@ -26,7 +26,19 @@ Future Scope:
 •	(Potential) Apply machine learning model for predictions 
  
 
+Twitter Scraping Assignment: 
+The conceptual model of the R2R model
+
+![image](https://user-images.githubusercontent.com/95865448/201506560-aa825627-68e3-40b5-90ec-0931a7b92250.png)
+
+The physical model of the R2R model
+![image](https://user-images.githubusercontent.com/95865448/201506568-42fc7b6c-0fe3-4e33-983e-51ae7575ae05.png)
+
+
+
 Team Members: 
 •	Name - Shashank Dongre	NUID - 002747740	Email - dongre.s@northeastern.edu	GitHub - https://github.com/ShashankDongre
 •	Name - Riya Virani		NUID - 002747048	Email - virani.r@northeastern.edu	GitHub - https://github.com/riya-virani
 •	Name - Ojasvi Patel		NUID - 002793770	Email - patel.oj@northeastern.edu	GitHub - https://github.com/Ojasvi1329
+
+
